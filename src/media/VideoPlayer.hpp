@@ -1,5 +1,6 @@
 #pragma once
 
+#include <memory>
 #include <QString>
 #include <QWidget>
 #include <QObject>
@@ -7,6 +8,7 @@
 #include <QMouseEvent>
 #include <QMediaPlayer>
 #include <QVideoWidget>
+
 
 
 namespace media {
